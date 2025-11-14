@@ -1,111 +1,115 @@
-# Ahmed Abdelaleem
+<!-- README.md for Ahmed Abdelaleem -->
+<!-- Last updated: 2025-11-14 -->
 
-**Backend Software Engineer | Enterprise Software Developer**  
-Cairo, Egypt | [GitHub](https://github.com/Ahmedabdelalem61) | [LinkedIn](https://www.linkedin.com/in/numerician) | [Email](mailto:ahmed.abdelalem61@gmail.com) | [@numerician](https://twitter.com/numerician)
-
----
-
-## PROFESSIONAL SUMMARY
-
-Backend software engineer with 3+ years of hands-on experience in enterprise software development and system architecture. Specialized in Odoo ERP customization, backend system design, and database optimization. Proficient in Java, Python, and Spring Boot with a proven track record of delivering scalable solutions in production environments. Active open-source contributor with 41 public repositories.
+# 👋 Ahmed Abdelaleem
+**Backend Software Engineer · Enterprise Systems · Odoo Specialist**  
+📍 Cairo, Egypt · [GitHub](https://github.com/Ahmedabdelalem61) · [LinkedIn](https://www.linkedin.com/in/numerician) · [Twitter @numerician](https://twitter.com/numerician) · ✉️ [ahmed.abdelalem61@gmail.com](mailto:ahmed.abdelalem61@gmail.com)
 
 ---
 
-## CORE COMPETENCIES
-
-**Languages:** Java, Python, C++, Dart  
-**Backend Frameworks:** Spring Boot, Odoo, Flask  
-**Databases & Infrastructure:** PostgreSQL, Redis, Message Queues, Docker, Linux  
-**Architecture & Patterns:** Microservices, REST APIs, Event-Driven Systems, Clean Architecture  
-**Specializations:**  
-- ERP System Customization & Integration
-- Database Design & Performance Optimization
-- API Architecture & Design
-- Distributed Systems
+[![GitHub followers](https://img.shields.io/github/followers/Ahmedabdelalem61?label=Follow&style=social)](https://github.com/Ahmedabdelalem61)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedabdelalem61&layout=compact&hide=html&langs_count=6)](https://github.com/Ahmedabdelalem61)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmedabdelalem61&show_icons=true&count_private=true&line_height=28)](https://github.com/Ahmedabdelalem61)
 
 ---
 
-## PROFESSIONAL EXPERIENCE
+## 🚀 About Me
+I build reliable backend systems and enterprise software with a focus on **Odoo ERP customization**, scalable architecture, and performance tuning. I enjoy turning complex business processes into automated, maintainable solutions — especially for e-commerce, healthcare operations, and government-scale projects.
 
-### **Backend Software Engineer**
-**Yodawy** | Cairo, Egypt | _January 2025 – October 2025_
-- Designed and deployed custom Odoo modules automating order-to-delivery workflows
-- Integrated REST APIs for real-time data synchronization across systems
-- Optimized PostgreSQL queries and message queue infrastructure, achieving 95% on-time sprint delivery
-
-### **Backend Software Engineer**
-**ITQAN SYSTEMS** | Riyadh, Saudi Arabia | _August 2023 – January 2025_
-- Developed Odoo-based committee management system for Saudi government with role-based access control
-- Built Red Crescent Hajj and Umrah management platform for health and welfare operations
-- Customized Odoo Sales, POS, and Inventory modules with automated workflow processes
-- Implemented API integrations connecting enterprise systems with third-party services
-
-### **Mobile Developer**
-**Cyparta & Algoriza** | Cairo, Egypt | _2022 – 2023_
-- Developed Flutter applications with clean architecture patterns and state management
-- Delivered production-ready mobile solutions for client projects
+- 3+ years professional experience in enterprise environments  
+- Strong background in **Java (Spring Boot)** and **Python (Odoo/Flask)**  
+- Active open-source contributor — **41+ public repos**
 
 ---
 
-## TECHNICAL PROJECTS & CONTRIBUTIONS
+## 🧰 Tech Stack & Core Skills
 
-**41 Public Repositories** | Active Open-Source Contributor
-
-### Featured Projects:
-
-**Odoo ERP Modules**  
-Custom Sales, POS, Inventory, and Helpdesk modules with workflow automation and third-party integrations
-
-**Flutter Applications**  
-[github.com/Ahmedabdelalem61/flutter-samples](https://github.com/Ahmedabdelalem61/flutter-samples)  
-Medium-scale mobile apps with clean architecture and state management
-
-**Data Structures & Algorithms**  
-[github.com/Ahmedabdelalem61/Data-Structures-And-Algorithms-Problem-Solving](https://github.com/Ahmedabdelalem61/Data-Structures-And-Algorithms-Problem-Solving)  
-DSA implementations and competitive programming solutions in C++
-
-**LeetCode Solutions**  
-[github.com/Ahmedabdelalem61/LeetCode-problems](https://github.com/Ahmedabdelalem61/LeetCode-problems)  
-Problem-solving repository across multiple topics and languages
+**Languages:** Java · Python · C++ · Dart  
+**Backend & Frameworks:** Spring Boot · Odoo · Flask  
+**Databases & Infra:** PostgreSQL · Redis · RabbitMQ / MQs · Docker · Linux  
+**Patterns & Architecture:** Microservices · Event-Driven · REST API · Clean Architecture  
+**Specialties:** ERP customizations & integrations · DB optimization · API architecture · Distributed systems
 
 ---
 
-## EDUCATION
-
-**Bachelor of Science, Computer Science**  
-Zagazig University | _2018 – 2022_
-
-**Professional Certification, Computer Software Engineering**  
-Manara Institute | _2023_
-
----
-
-## CERTIFICATIONS & ACHIEVEMENTS
-
-- Technical Expert Interview (Data Structures & Algorithms)
-- Behavioral Expert Interview Certification
-- Mastering Critical Skills in Data Structures using C++
-- Git & GitHub Essentials Certification
-- 2020 Helwan University Collegiate Programming Contest
+## ✨ What I Do Well
+- Design and implement custom **Odoo** modules (Sales, POS, Inventory, Helpdesk)  
+- Integrate enterprise systems via robust REST/SOAP APIs  
+- Optimize PostgreSQL queries, indexing and message queue throughput  
+- Architect reliable microservices and event-driven flows  
+- Deliver maintainable, documented code and handover docs for operations
 
 ---
 
-## CONTINUOUS PROFESSIONAL DEVELOPMENT
+## 💼 Selected Experience (highlights)
 
-Currently advancing expertise in:
-- Advanced Java and Spring Framework ecosystem
-- System design and scalable architecture patterns
-- Enterprise design patterns and SOLID principles
-- Automated testing frameworks (JUnit, Mockito)
-- Microservices and containerization
+**Backend Software Engineer — Yodawy** · *Cairo, Egypt* · **Jan 2025 – Oct 2025**  
+- Delivered custom Odoo modules for order-to-delivery automation.  
+- Built REST integrations for real-time sync; improved delivery SLAs and reliability.
 
----
+**Backend Software Engineer — ITQAN SYSTEMS** · *Riyadh, Saudi Arabia* · **Aug 2023 – Jan 2025**  
+- Developed Odoo-based committee management & Red Crescent Hajj/Umrah platform.  
+- Implemented RBAC, automated workflows and third-party integrations.
 
-## GITHUB STATISTICS
-
-- **Public Repositories:** 41
-- **Profile:** [github.com/Ahmedabdelalem61](https://github.com/Ahmedabdelalem61)
+**Mobile Developer — Cyparta & Algoriza** · *Cairo, Egypt* · **2022 – 2023**  
+- Built production Flutter apps using clean architecture and modular state management.
 
 ---
 
-**Last Updated:** 2025-11-14
+## 🔭 Featured Projects
+
+- **Odoo ERP Modules** — Custom Sales, POS, Inventory modules with workflow automation.  
+  Repo: (see my repos list on GitHub)
+
+- **Flutter Samples** — Modular apps built with clean architecture.  
+
+- **DSA Problem Solving (C++)** — Competitive programming & data-structures implementations.  
+
+- **LeetCode Solutions** — Multi-language problem solutions.  
+
+---
+
+## 🧩 Projects Snapshot
+
+| Project | Short description |
+|---|---|
+| **Odoo ERP Modules** | Workflow automation (Sales → Inventory → Delivery), dashboards & reporting |
+| **Red Crescent Hajj Platform** | Nationwide operations support for health & logistics (custom Odoo) |
+| **Flutter Samples** | Clean-architecture mobile apps, state management examples |
+| **DSA Repos** | Algorithms, data structures, and competitive programming solutions |
+
+---
+
+## ✅ How I Work
+- Emphasize clear boundaries: APIs, contracts, and graceful error handling  
+- Write maintainable code with tests and documentation  
+- Deliver in iterations with demos and feedback loops  
+- Knowledge transfer: handover docs and short training sessions for operators/devs
+
+---
+
+## 📬 Contact & Hiring
+Looking for backend roles, Odoo/ERP projects, or contract work.  
+If you have roles where I can add value — send a message: **ahmed.abdelalem61@gmail.com** or DM on LinkedIn.
+
+**Open to:** Full-time roles · Contract work · Remote or onsite (Cairo / Riyadh)
+
+---
+
+## 📚 Continuous Learning
+Currently deepening expertise in:
+- Advanced Java & Spring Boot patterns  
+- System design for scale and fault tolerance  
+- Automated testing (integration & contract tests)  
+- Microservices observability & production debugging
+
+---
+
+## ⚡ Quick Links
+- GitHub: https://github.com/Ahmedabdelalem61  
+- LinkedIn: https://www.linkedin.com/in/numerician  
+- Twitter: https://twitter.com/numerician
+
+---
+last update was Nov 2025 
+
