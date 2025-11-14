@@ -46,25 +46,10 @@ Currently diving deep into **Java ecosystem**, **Spring Boot mastery**, **Design
 
 ## 🚀 Featured Projects
 
-### Odoo Development
-- **[odoo17_dev](https://github.com/Ahmedabdelalem61/odoo17_dev)** - Advanced Odoo 17 custom modules and development
-- **[odoo_paw_pals](https://github.com/Ahmedabdelalem61/odoo_paw_pals)** - Pet care management system built on Odoo
-- **[odoo_development](https://github.com/Ahmedabdelalem61/odoo_development)** - Odoo customization projects and modules
-
-### Java & Spring Boot
-- **[EmployeeManagement](https://github.com/Ahmedabdelalem61/EmployeeManagement)** - Employee management system built with Spring Boot
-- **[SpringBootProjectStructure](https://github.com/Ahmedabdelalem61/SpringBootProjectStructure)** - Spring Boot project architecture and best practices
-- **[SpringBoot_CrudApp](https://github.com/Ahmedabdelalem61/SpringBoot_CrudApp)** - CRUD application demonstrating Spring Boot fundamentals
 
 ### Algorithms & Problem Solving
 - **[LeetCode-problems](https://github.com/Ahmedabdelalem61/LeetCode-problems)** - Collection of LeetCode solutions
 - **[Data-Structures-And-Algorithms-Problem-Solving](https://github.com/Ahmedabdelalem61/Data-Structures-And-Algorithms-Problem-Solving)** - DSA implementations and solutions in C++
-
-### Design Patterns & Architecture
-- **[design_pattern](https://github.com/Ahmedabdelalem61/design_pattern)** - Implementation of software design patterns
-- Working on: Clean Architecture, SOLID principles, and enterprise patterns
-
----
 
 ## 📚 Current Learning Journey
 
