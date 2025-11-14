@@ -1,135 +1,111 @@
-```markdown
-# 👋 Hi, I'm Ahmed Abdelaleem
+# Ahmed Abdelaleem
+
+**Backend Software Engineer | Enterprise Software Developer**  
+Cairo, Egypt | [GitHub](https://github.com/Ahmedabdelalem61) | [LinkedIn](https://www.linkedin.com/in/numerician) | [Email](mailto:ahmed.abdelalem61@gmail.com) | [@numerician](https://twitter.com/numerician)
 
 ---
 
-![Profile Banner](https://avatars.githubusercontent.com/u/47370980?v=4)
+## PROFESSIONAL SUMMARY
 
-**Software Engineer | Backend Developer | Odoo & Java | Cairo, Egypt**  
-[GitHub](https://github.com/Ahmedabdelalem61) · [LinkedIn](https://www.linkedin.com/in/numerician) · [Twitter](https://twitter.com/numerician)
-
----
-
-## 🌟 About Me
-
-With over 3 years of hands-on experience in backend engineering and enterprise software development, I specialize in building scalable, robust solutions for business-critical environments. I am deeply experienced with the Java ecosystem and Odoo ERP, and passionate about leveraging clean architecture and modern design patterns to craft impactful systems.
-
-I thrive on solving complex problems and enjoy contributing to open-source and community tech spaces. My current interests include distributed systems, microservices, and backend infrastructure optimization.  
-I actively share and contribute technical solutions, with 40+ repositories publicly available.
+Backend software engineer with 3+ years of hands-on experience in enterprise software development and system architecture. Specialized in Odoo ERP customization, backend system design, and database optimization. Proficient in Java, Python, and Spring Boot with a proven track record of delivering scalable solutions in production environments. Active open-source contributor with 41 public repositories.
 
 ---
 
-## 💻 Technical Skills
+## CORE COMPETENCIES
 
-**Languages:**  
-Python, Java, C++, Dart
-
-**Frameworks & Technologies:**  
-Spring Boot, Odoo, Flutter, PostgreSQL, REST APIs, Message Queues, Git, Docker, Linux
-
+**Languages:** Java, Python, C++, Dart  
+**Backend Frameworks:** Spring Boot, Odoo, Flask  
+**Databases & Infrastructure:** PostgreSQL, Redis, Message Queues, Docker, Linux  
+**Architecture & Patterns:** Microservices, REST APIs, Event-Driven Systems, Clean Architecture  
 **Specializations:**  
-- Backend System Architecture
-- Odoo ERP Customization (Sales, Purchases, POS, Inventory, Helpdesk, API integrations)
-- Database Design & Performance Tuning
-- Microservices & Distributed Systems
-- API Design & Optimization
+- ERP System Customization & Integration
+- Database Design & Performance Optimization
+- API Architecture & Design
+- Distributed Systems
 
 ---
 
-## 🏢 Professional Experience
+## PROFESSIONAL EXPERIENCE
 
-### Software Engineer @ Yodawy _(Jan 2025 - Oct 2025)_
-- Designed, customized, and deployed Odoo modules, automating order-to-delivery cycles and business processes.
-- Integrated REST APIs for real-time data flows.
-- Optimized PostgreSQL and legacy message queues—achieved 95% sprint on-time delivery.
+### **Backend Software Engineer**
+**Yodawy** | Cairo, Egypt | _January 2025 – October 2025_
+- Designed and deployed custom Odoo modules automating order-to-delivery workflows
+- Integrated REST APIs for real-time data synchronization across systems
+- Optimized PostgreSQL queries and message queue infrastructure, achieving 95% on-time sprint delivery
 
-### Software Engineer @ ITQAN SYSTEMS _(Aug 2023 - Jan 2025)_
-- Developed Odoo-based committee management system for Saudi government.
-- Led Red Crescent Hajj/Umrah management platforms (health & welfare focus).
+### **Backend Software Engineer**
+**ITQAN SYSTEMS** | Riyadh, Saudi Arabia | _August 2023 – January 2025_
+- Developed Odoo-based committee management system for Saudi government with role-based access control
+- Built Red Crescent Hajj and Umrah management platform for health and welfare operations
+- Customized Odoo Sales, POS, and Inventory modules with automated workflow processes
+- Implemented API integrations connecting enterprise systems with third-party services
 
-### Mobile Developer @ Cyparta & Algoriza _(2022 - 2023)_
-- Built production-ready Flutter applications with highly maintainable architectures.
-
----
-
-## 🚀 Featured Projects
-
-Below I've expanded the "Featured Projects" section to show a wider variety of project types — backend services, Odoo modules, tooling, mobile apps, algorithms, and DevOps examples. Where I didn't have a specific repo name, I put a placeholder repo path you can replace with the correct link(s).
-
-### Odoo Modules & ERP Integrations
-- Odoo Sales & POS Customizations — Custom modules (Sales, POS, Inventory, Helpdesk) with tailored workflows and automated reporting. 
-- Government Committee Management (ITQAN) — Odoo-based committee management for Saudi Government project (role-based UI, approvals, audit logs). 
-- Odoo ↔ Third-party API Integrations — Connectors for realtime synchronization with external REST APIs and webhook handlers.
-
-### Mobile & Frontend
-- Flutter Apps Collection — Medium-scale mobile apps with clean architecture and state management (Provider / Bloc). https://github.com/Ahmedabdelalem61/flutter-samples
-- Cyparta & Algoriza Projects — Production mobile apps delivered for clients (UX-focused, offline support).
-
-### Algorithms, Data Structures & Competitive Programming
-- LeetCode-problems — Collection of LeetCode solutions across multiple topics and languages. https://github.com/Ahmedabdelalem61/LeetCode-problems
-- Data-Structures-And-Algorithms-Problem-Solving — DSA implementations and practical problem-solving in C++. https://github.com/Ahmedabdelalem61/Data-Structures-And-Algorithms-Problem-Solving
-
+### **Mobile Developer**
+**Cyparta & Algoriza** | Cairo, Egypt | _2022 – 2023_
+- Developed Flutter applications with clean architecture patterns and state management
+- Delivered production-ready mobile solutions for client projects
 
 ---
 
-(See all my public repositories: https://github.com/Ahmedabdelalem61?tab=repositories)
+## TECHNICAL PROJECTS & CONTRIBUTIONS
+
+**41 Public Repositories** | Active Open-Source Contributor
+
+### Featured Projects:
+
+**Odoo ERP Modules**  
+Custom Sales, POS, Inventory, and Helpdesk modules with workflow automation and third-party integrations
+
+**Flutter Applications**  
+[github.com/Ahmedabdelalem61/flutter-samples](https://github.com/Ahmedabdelalem61/flutter-samples)  
+Medium-scale mobile apps with clean architecture and state management
+
+**Data Structures & Algorithms**  
+[github.com/Ahmedabdelalem61/Data-Structures-And-Algorithms-Problem-Solving](https://github.com/Ahmedabdelalem61/Data-Structures-And-Algorithms-Problem-Solving)  
+DSA implementations and competitive programming solutions in C++
+
+**LeetCode Solutions**  
+[github.com/Ahmedabdelalem61/LeetCode-problems](https://github.com/Ahmedabdelalem61/LeetCode-problems)  
+Problem-solving repository across multiple topics and languages
 
 ---
 
-## 📚 Learning & Growth
+## EDUCATION
 
-Currently focusing on:
+**Bachelor of Science, Computer Science**  
+Zagazig University | _2018 – 2022_
 
-- Advanced Java (OOP, Collections, Streams)
-- Spring Boot & Spring Cloud ecosystem
-- Clean Architecture, Microservices
-- Gang of Four & Enterprise Design Patterns
-- Automated Testing (JUnit, Mockito)
-- API & System Design for scale
+**Professional Certification, Computer Software Engineering**  
+Manara Institute | _2023_
 
 ---
 
-## 🎓 Education
+## CERTIFICATIONS & ACHIEVEMENTS
 
-- **BSc. Computer Science, Zagazig University** _(2018-2022)_
-- **Computer Software Engineering, Manara** _(2023)_
-
----
-
-## 🏆 Certifications & Achievements
-
-- Technical Expert Interview (DSA)
-- Behavioral Expert Interview
+- Technical Expert Interview (Data Structures & Algorithms)
+- Behavioral Expert Interview Certification
 - Mastering Critical Skills in Data Structures using C++
-- Git & GitHub Essentials
+- Git & GitHub Essentials Certification
 - 2020 Helwan University Collegiate Programming Contest
 
 ---
 
-## 📈 GitHub Stats
+## CONTINUOUS PROFESSIONAL DEVELOPMENT
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedabdelalem61&layout=compact&theme=dark)  
-![Profile Views](https://komarev.com/ghpvc/?username=Ahmedabdelalem61)
-
----
-
-## 🎯 Career Vision
-
-I am currently seeking mid-level roles in:
-- Java Backend & Enterprise Development
-- Odoo ERP Backend Engineering
-- Software Architecture & System Design
+Currently advancing expertise in:
+- Advanced Java and Spring Framework ecosystem
+- System design and scalable architecture patterns
+- Enterprise design patterns and SOLID principles
+- Automated testing frameworks (JUnit, Mockito)
+- Microservices and containerization
 
 ---
 
-## 📫 Contact & Social
+## GITHUB STATISTICS
 
-- **Email:** ahmed.abdelalem61@gmail.com  
-- **LinkedIn:** [linkedin.com/in/numerician](https://www.linkedin.com/in/numerician)  
-- **Location:** Cairo, Egypt  
-- **Twitter:** [@numerician](https://twitter.com/numerician)
+- **Public Repositories:** 41
+- **Profile:** [github.com/Ahmedabdelalem61](https://github.com/Ahmedabdelalem61)
 
 ---
 
-*Passionate about building scalable systems and architecting robust software solutions. Always learning—always building. Feel free to reach out!*
-```
+**Last Updated:** 2025-11-14
