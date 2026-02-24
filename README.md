@@ -1,8 +1,8 @@
-<!-- README.md for Ahmed Abdelaleem -->
-<!-- Last updated: 2025-11-14 -->
+<!-- README.md for Ahmed Abdelalem -->
+<!-- Last updated: 2026-02-24 -->
 
-# 👋 Ahmed Abdelaleem
-**Backend Software Engineer · Enterprise Systems · Odoo Specialist**  
+# 👋 Ahmed Abdelalem
+**Backend Software Engineer · Enterprise Systems · Odoo Specialist**
 📍 Cairo, Egypt · [GitHub](https://github.com/Ahmedabdelalem61) · [LinkedIn](https://www.linkedin.com/in/numerician) · [Twitter @numerician](https://twitter.com/numerician) · ✉️ [ahmed.abdelalem61@gmail.com](mailto:ahmed.abdelalem61@gmail.com)
 
 ---
@@ -14,102 +14,77 @@
 ---
 
 ## 🚀 About Me
-I build reliable backend systems and enterprise software with a focus on **Odoo ERP customization**, scalable architecture, and performance tuning. I enjoy turning complex business processes into automated, maintainable solutions — especially for e-commerce, healthcare operations, and government-scale projects.
 
-- 3+ years professional experience in enterprise environments  
-- Strong background in **Java (Spring Boot)** and **Python (Odoo/Flask)**  
-- Active open-source contributor — **41+ public repos**
+Backend engineer with 3+ years of experience building enterprise software and Odoo ERP systems. I specialize in turning complex business processes into automated, scalable solutions — with a track record across e-commerce, healthcare operations, and government-scale platforms.
 
----
-
-## 🧰 Tech Stack & Core Skills
-
-**Languages:** Java · Python · C++ · Dart  
-**Backend & Frameworks:** Spring Boot · Odoo · Flask  
-**Databases & Infra:** PostgreSQL · Redis · RabbitMQ / MQs · Docker · Linux  
-**Patterns & Architecture:** Microservices · Event-Driven · REST API · Clean Architecture  
-**Specialties:** ERP customizations & integrations · DB optimization · API architecture · Distributed systems
+- **Odoo ERP:** Custom module development, workflow automation, and third-party integrations
+- **Backend:** Java (Spring Boot) · Python (Odoo / Flask)
+- **41+ public repos** across ERP, mobile, and algorithms
 
 ---
 
-## ✨ What I Do Well
-- Design and implement custom **Odoo** modules (Sales, POS, Inventory, Helpdesk)  
-- Integrate enterprise systems via robust REST/SOAP APIs  
-- Optimize PostgreSQL queries, indexing and message queue throughput  
-- Architect reliable microservices and event-driven flows  
-- Deliver maintainable, documented code and handover docs for operations
+## 🧰 Tech Stack
+
+**Languages:** Java · Python · C++ · Dart
+**Frameworks:** Spring Boot · Odoo · Flask
+**Databases & Infra:** PostgreSQL · Redis · RabbitMQ · Docker · Linux
+**Architecture:** Microservices · Event-Driven · REST API · Clean Architecture
+**Specialties:** ERP customization & integration · DB optimization · Distributed systems
 
 ---
 
-## 💼 Selected Experience (highlights)
+## 💼 Experience
 
-**Backend Software Engineer — Yodawy** · *Cairo, Egypt* · **Jan 2025 – Oct 2025**  
-- Delivered custom Odoo modules for order-to-delivery automation.  
+**Backend Software Engineer — Yodawy** · *Cairo, Egypt* · **Jan 2025 – Oct 2025**
+- Delivered custom Odoo modules for order-to-delivery automation.
 - Built REST integrations for real-time sync; improved delivery SLAs and reliability.
 
-**Backend Software Engineer — ITQAN SYSTEMS** · *Riyadh, Saudi Arabia* · **Aug 2023 – Jan 2025**  
-- Developed Odoo-based committee management & Red Crescent Hajj/Umrah platform.  
-- Implemented RBAC, automated workflows and third-party integrations.
+**Backend Software Engineer — ITQAN SYSTEMS** · *Riyadh, Saudi Arabia* · **Aug 2023 – Jan 2025**
+- Developed Odoo-based committee management and Red Crescent Hajj/Umrah platform.
+- Implemented RBAC, automated workflows, and third-party integrations.
 
-**Mobile Developer — Cyparta & Algoriza** · *Cairo, Egypt* · **2022 – 2023**  
+**Mobile Developer — Cyparta & Algoriza** · *Cairo, Egypt* · **2022 – 2023**
 - Built production Flutter apps using clean architecture and modular state management.
 
 ---
 
-## 🔭 Featured Projects
+## 🔭 Projects
 
-- **Odoo ERP Modules** — Custom Sales, POS, Inventory modules with workflow automation.  
-  Repo: (see my repos list on GitHub)
-
-- **Flutter Samples** — Modular apps built with clean architecture.  
-
-- **DSA Problem Solving (C++)** — Competitive programming & data-structures implementations.  
-
-- **LeetCode Solutions** — Multi-language problem solutions.  
-
----
-
-## 🧩 Projects Snapshot
-
-| Project | Short description |
+| Project | Description |
 |---|---|
 | **Odoo ERP Modules** | Workflow automation (Sales → Inventory → Delivery), dashboards & reporting |
-| **Red Crescent Hajj Platform** | Nationwide operations support for health & logistics (custom Odoo) |
-| **Flutter Samples** | Clean-architecture mobile apps, state management examples |
+| **Red Crescent Hajj Platform** | Nationwide health & logistics operations support (custom Odoo) |
+| **Flutter Samples** | Clean-architecture mobile apps with state management examples |
 | **DSA Repos** | Algorithms, data structures, and competitive programming solutions |
+| **LeetCode Solutions** | Multi-language algorithmic problem solutions |
 
 ---
 
 ## ✅ How I Work
-- Emphasize clear boundaries: APIs, contracts, and graceful error handling  
-- Write maintainable code with tests and documentation  
-- Deliver in iterations with demos and feedback loops  
-- Knowledge transfer: handover docs and short training sessions for operators/devs
+
+- Clear API contracts with graceful error handling
+- Iterative delivery with demos and feedback loops
+- Maintainable code with tests and documentation
+- Knowledge transfer: handover docs and training for operators and developers
 
 ---
 
-## 📬 Contact & Hiring
-Looking for backend roles, Odoo/ERP projects, or contract work.  
-If you have roles where I can add value — send a message: **ahmed.abdelalem61@gmail.com** or DM on LinkedIn.
+## 📚 Currently Learning
 
-**Open to:** Full-time roles · Contract work · Remote or onsite (Cairo / Riyadh)
-
----
-
-## 📚 Continuous Learning
-Currently deepening expertise in:
-- Advanced Java & Spring Boot patterns  
-- System design for scale and fault tolerance  
-- Automated testing (integration & contract tests)  
-- Microservices observability & production debugging
+- Advanced Java & Spring Boot patterns
+- System design for scale and fault tolerance
+- Integration & contract testing
+- Microservices observability and production debugging
 
 ---
 
-## ⚡ Quick Links
-- GitHub: https://github.com/Ahmedabdelalem61  
-- LinkedIn: https://www.linkedin.com/in/numerician  
-- Twitter: https://twitter.com/numerician
+## 📬 Open to Work
+
+Looking for backend roles, Odoo/ERP projects, or contract engagements.
+📧 [ahmed.abdelalem61@gmail.com](mailto:ahmed.abdelalem61@gmail.com) · [LinkedIn](https://www.linkedin.com/in/numerician)
+
+**Available for:** Full-time · Contract · Remote or on-site (Cairo / Riyadh)
 
 ---
-last update was Nov 2025 
 
+*Last updated: February 2026*
