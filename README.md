@@ -1,90 +1,63 @@
-<!-- README.md for Ahmed Abdelalem -->
-<!-- Last updated: 2026-02-24 -->
+<div align="center">
 
-# 👋 Ahmed Abdelalem
-**Backend Software Engineer · Enterprise Systems · Odoo Specialist**
-📍 Cairo, Egypt · [GitHub](https://github.com/Ahmedabdelalem61) · [LinkedIn](https://www.linkedin.com/in/numerician) · [Twitter @numerician](https://twitter.com/numerician) · ✉️ [ahmed.abdelalem61@gmail.com](mailto:ahmed.abdelalem61@gmail.com)
+# Ahmed Abdelaleem
 
----
+### Odoo & Backend Software Engineer
 
-[![GitHub followers](https://img.shields.io/github/followers/Ahmedabdelalem61?label=Follow&style=social)](https://github.com/Ahmedabdelalem61)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedabdelalem61&layout=compact&hide=html&langs_count=6)](https://github.com/Ahmedabdelalem61)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmedabdelalem61&show_icons=true&count_private=true&line_height=28)](https://github.com/Ahmedabdelalem61)
+I build reliable ERP systems, integrations, and automation for operations-heavy teams.
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://ahmed-portfolio-reactive.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/numerician) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmed.abdelalem61@gmail.com) [![X](https://img.shields.io/badge/@numerician-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/numerician)
 
-## 🚀 About Me
+Cairo, Egypt
 
-Backend engineer with 3+ years of experience building enterprise software and Odoo ERP systems. I specialize in turning complex business processes into automated, scalable solutions — with a track record across e-commerce, healthcare operations, and government-scale platforms.
+</div>
 
-- **Odoo ERP:** Custom module development, workflow automation, and third-party integrations
-- **Backend:** Java (Spring Boot) · Python (Odoo / Flask)
-- **41+ public repos** across ERP, mobile, and algorithms
+## About
 
----
+I'm a software engineer focused on **Odoo and backend engineering**. I turn complex business operations into maintainable ERP modules, clear APIs, and production-ready workflows. My experience spans e-commerce, healthcare operations, government platforms, and mobile products.
 
-## 🧰 Tech Stack
+I work across the full delivery lifecycle: domain modeling, Odoo customization, frontend extensions, third-party integrations, database performance, deployment, production support, and technical handover.
 
-**Languages:** Java · Python · C++ · Dart
-**Frameworks:** Spring Boot · Odoo · Flask
-**Databases & Infra:** PostgreSQL · Redis · RabbitMQ · Docker · Linux
-**Architecture:** Microservices · Event-Driven · REST API · Clean Architecture
-**Specialties:** ERP customization & integration · DB optimization · Distributed systems
+## What I work with
 
----
+**ERP and backend**
 
-## 💼 Experience
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
-**Backend Software Engineer — Yodawy** · *Cairo, Egypt* · **Jan 2025 – Oct 2025**
-- Delivered custom Odoo modules for order-to-delivery automation.
-- Built REST integrations for real-time sync; improved delivery SLAs and reliability.
+`Odoo ORM` · `XML/QWeb` · `OWL` · `REST APIs` · `RBAC` · `workflow automation` · `reporting` · `PostgreSQL tuning`
 
-**Backend Software Engineer — ITQAN SYSTEMS** · *Riyadh, Saudi Arabia* · **Aug 2023 – Jan 2025**
-- Developed Odoo-based committee management and Red Crescent Hajj/Umrah platform.
-- Implemented RBAC, automated workflows, and third-party integrations.
+**Platform and delivery**
 
-**Mobile Developer — Cyparta & Algoriza** · *Cairo, Egypt* · **2022 – 2023**
-- Built production Flutter apps using clean architecture and modular state management.
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
----
+`Docker Compose` · `Nginx` · `CI/CD` · `Linux operations` · `production debugging` · `technical documentation`
 
-## 🔭 Projects
+**Broader engineering experience:** Flutter, Dart, Kotlin, Java, C++, Firebase, clean architecture, algorithms, and data structures.
 
-| Project | Description |
-|---|---|
-| **Odoo ERP Modules** | Workflow automation (Sales → Inventory → Delivery), dashboards & reporting |
-| **Red Crescent Hajj Platform** | Nationwide health & logistics operations support (custom Odoo) |
-| **Flutter Samples** | Clean-architecture mobile apps with state management examples |
-| **DSA Repos** | Algorithms, data structures, and competitive programming solutions |
-| **LeetCode Solutions** | Multi-language algorithmic problem solutions |
+## Selected work
 
----
+| Project | Engineering focus | Stack |
+| --- | --- | --- |
+| [Arabs Guard](https://github.com/Ahmedabdelalem61/arabs-guard) | Consent-driven Android family DNS protection with encrypted DNS, a native VPN layer, and fail-closed router automation | Flutter, Kotlin, Android `VpnService`, DoH |
+| [KIG7 — Odoo 18 staging stack](https://github.com/Ahmedabdelalem61/KIG7) | Containerized Odoo environment with custom addons, reverse proxying, backup/restore automation, and operator runbooks | Odoo 18, Python, PostgreSQL, Docker, Nginx |
+| [Flutter MVVM Architecture](https://github.com/Ahmedabdelalem61/flutter-mvvm-arch) | Layered reference application covering data, domain, and presentation concerns, API caching, localization, and reactive state | Flutter, Dart, MVVM, REST APIs |
 
-## ✅ How I Work
+## Engineering highlights
 
-- Clear API contracts with graceful error handling
-- Iterative delivery with demos and feedback loops
-- Maintainable code with tests and documentation
-- Knowledge transfer: handover docs and training for operators and developers
+- Built and customized Odoo workflows across Sales, Purchase, POS, Inventory, Helpdesk, and committee-management domains.
+- Integrated Odoo with third-party REST services and worked on reliable data synchronization and message processing.
+- Improved PostgreSQL queries and Odoo server behavior for production workloads.
+- Delivered software for e-commerce, healthcare operations, and government-scale business processes.
+- Worked closely with product, QA, and operations teams, including documentation, training, and production support.
 
----
+## Background
 
-## 📚 Currently Learning
+- **B.Sc. in Computer Science**, Zagazig University
+- **2× ECPC finalist** and first-ranked qualifier at Zagazig University — [ICPC profile](https://icpc.global/ICPCID/U39DE9L5UYYP)
+- Former Flutter engineer with experience mentoring developers and competitive-programming students
 
-- Advanced Java & Spring Boot patterns
-- System design for scale and fault tolerance
-- Integration & contract testing
-- Microservices observability and production debugging
+## Let's connect
 
----
+I'm open to backend and Odoo/ERP opportunities, consulting, and product collaborations.
 
-## 📬 Open to Work
-
-Looking for backend roles, Odoo/ERP projects, or contract engagements.
-📧 [ahmed.abdelalem61@gmail.com](mailto:ahmed.abdelalem61@gmail.com) · [LinkedIn](https://www.linkedin.com/in/numerician)
-
-**Available for:** Full-time · Contract · Remote or on-site (Cairo / Riyadh)
-
----
-
-*Last updated: February 2026*
+[Email](mailto:ahmed.abdelalem61@gmail.com) · [LinkedIn](https://www.linkedin.com/in/numerician) · [Portfolio](https://ahmed-portfolio-reactive.vercel.app)
